@@ -1,1 +1,25 @@
-{"nextId":5,"accounts":[{"id":1,"name":"ghfhghghgh asdasdasd","balance":3000},{"id":2,"name":"asdasdasdasd asdasdasd","balance":3000},{"id":3,"name":"qweqweqwewqe asdasdasd","balance":3000},{"id":4,"balance":1000}]}
+{
+  "nextId": 6,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "ghfhghghgh asdasdasd",
+      "balance": 3000
+    },
+    {
+      "id": 2,
+      "name": "ffffff fffffff",
+      "balance": 1000
+    },
+    {
+      "id": 3,
+      "name": "qweqweqwewqe asdasdasd",
+      "balance": 3000
+    },
+    {
+      "id": 5,
+      "name": "zxczxczxc asdasdasd",
+      "balance": 43000
+    }
+  ]
+}
