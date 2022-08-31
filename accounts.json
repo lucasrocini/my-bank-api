@@ -1,5 +1,5 @@
 {
-  "nextId": 6,
+  "nextId": 7,
   "accounts": [
     {
       "id": 1,
@@ -20,6 +20,11 @@
       "id": 5,
       "name": "zxczxczxc asdasdasd",
       "balance": 43000
+    },
+    {
+      "id": 6,
+      "name": "cbvbcvbcvb Assis",
+      "balance": 742.34
     }
   ]
 }
