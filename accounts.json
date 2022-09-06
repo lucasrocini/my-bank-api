@@ -1,14 +1,6 @@
 {
-  "nextId": 12,
+  "nextId": 16,
   "accounts": [
-    {
-      "id": 2,
-      "name": "jjjjjjjjjjjjjjj fffffff",
-      "balance": {
-        "id": 2,
-        "balance": 1
-      }
-    },
     {
       "id": 5,
       "name": "zxczxczxc asdasdasd",
@@ -38,6 +30,21 @@
       "id": 11,
       "name": "6iuyiuyiuy9i dsfgdfgdfgfd",
       "balance": 324000
+    },
+    {
+      "id": 13,
+      "name": "guilherme",
+      "balance": 4000
+    },
+    {
+      "id": 14,
+      "name": "guilherme",
+      "balance": 4000
+    },
+    {
+      "id": 15,
+      "name": "guilherme",
+      "balance": 4000
     }
   ]
 }
