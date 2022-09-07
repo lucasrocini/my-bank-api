@@ -1,5 +1,6 @@
 import { GraphQLSchema, GraphQLObjectType } from "graphql"
 import AccountQuery from "./queries/account.query.js"
+import AccountMutation from "./mutations/account.mutation.js";
 
 const Schema = new GraphQLSchema({
     types: null,
@@ -10,7 +11,12 @@ const Schema = new GraphQLSchema({
             //...ClientQuery //another example
         }
     }),
-    mutation: null
+    mutation: new GraphQLObjectType({
+        name: "RootMutation",
+        fields: {
+            ...AccountMutation
+        }
+    })
 });
 
 export default Schema;
